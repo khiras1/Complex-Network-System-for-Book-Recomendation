@@ -1,0 +1,27 @@
+{
+    "jaccard": {
+        "precision": 0.08311111111111112,
+        "recall": 0.09946248395282833,
+        "execution_time": 66.27670783519744
+    },
+    "overlap": {
+        "precision": 0.10844444444444444,
+        "recall": 0.13577782293632285,
+        "execution_time": 9.971458927790325
+    },
+    "adamic_adar": {
+        "precision": 0.17066666666666666,
+        "recall": 0.18901461305333755,
+        "execution_time": 11.37986121336619
+    },
+    "resource_allocation": {
+        "precision": 0.3222222222222222,
+        "recall": 0.354538760580863,
+        "execution_time": 12.349155041376749
+    },
+    "pagerank": {
+        "precision": 0.39555555555555555,
+        "recall": 0.42347940010820734,
+        "execution_time": 6.83950178305308
+    }
+}
